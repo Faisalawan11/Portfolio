@@ -174,3 +174,6 @@ a .whatsapp:active,a .facebook:active,a .instagram:active,a .linkedin:active{
 .project-list{
   text-align:left;
 }
+ul li{
+  line-height:1.6;
+}
