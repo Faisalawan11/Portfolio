@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #EFFFFD;
+  color:#40514E;
+}
+
+h1 {
+  padding-top: 20px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 2rem;
+
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  line-height:1.6;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 12.5rem;
+  height: 31.25;
+}
+
+.hello {
+  padding-bottom: 1.25rem;
+}
+
+.about {
+  line-height: 1.6;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.resume {
+  margin-right: 1.25rem;
+}
+
+.contact {
+  margin-left: 1.25rem;
+}
+
+.qualify {
+  padding-bottom: 5rem;
+}
+
+p {
+  line-height: 1.6;
+}
+
+.about a {
+  text-decoration: none;
+
+}
+a .resume-button{
+  background-color:#EFFFFD;
+  font-family: 'Merriweather', serif;
+  height:2.125rem;
+  width:10.25rem;
+  padding-left:0.625rem;
+  padding-right:0.625rem;
+  border-style:solid;
+  border-color:#42C2FF;
+  border-width:1px;
+  cursor:pointer;
+  border-radius:0.9375rem;
+  transition: background-color 0.15s, color 0.15s;
+}
+a .contact-button{
+  background-color:#EFFFFD;
+  font-family: 'Merriweather', serif;
+  height:2.125rem;
+  width:10.25rem;
+  padding-left:0.625rem;
+  padding-right:0.625rem;
+  border-style:solid;
+  border-color:#42C2FF;
+  border-width:1px;
+  cursor:pointer;
+  border-radius:0.9375rem;
+  transition: background-color 0.15s, color 0.15s;
+}
+a .resume-button:hover{
+color:white;
+background-color: #42C2FF;
+}
+a .resume-button:active{
+opacity:0.8;
+}
+a .contact-button:hover{
+  color:white;
+  background-color: #42C2FF;
+}
+a .contact-button:active{
+opacity:0.7;
+}
+.projects{
+  width:70%;
+  margin:auto;
+}
+hr{
+  border-style:dotted none none none;
+  width:5%;
+  border-color:grey;
+  border-width:0.3125rem;
+  margin:auto;
+}
+.contact-me{
+  width:70%;
+  margin:auto;
+}
+.profile{
+  width:70%;
+  margin:auto;
+
+}
+p, .about{
+  text-align:justify;
+}
+.skills{
+  width:70%;
+  margin:auto;
+
+  left:3.125rem;
+}
+a .whatsapp:hover{
+  background-color: #97DBAE;
+  border-radius:10px;
+}
+a .facebook:hover{
+  background-color: #8FBDD3;
+  border-radius:10px;
+
+}
+a .instagram:hover{
+  background-color:#FFA8A8;
+  border-radius:10px;
+}
+a .linkedin:hover{
+  background-color: #42C2FF;
+  border-radius:10px;
+}
+a .whatsapp:active,a .facebook:active,a .instagram:active,a .linkedin:active{
+  opacity:0.7;
+}
+.project-list{
+  text-align:left;
+}
+ul li{
+  line-height:1.6;
+}
