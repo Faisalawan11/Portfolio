@@ -177,3 +177,9 @@ a .whatsapp:active,a .facebook:active,a .instagram:active,a .linkedin:active{
 ul li{
   line-height:1.6;
 }
+.footer{
+  width:25%;
+  margin:auto;
+  font-family: 'Merriweather', serif;
+    color: #11999E;
+}
