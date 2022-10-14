@@ -2,7 +2,9 @@
   margin: 0;
   padding: 0;
 }
-
+.qualify a:hover{
+  text-decoration:none;
+}
 body {
   margin: 0;
   padding: 0;
@@ -11,9 +13,7 @@ body {
   background-color: #EFFFFD;
   color:#40514E;
 }
-a:hover{
-  text-decoration: none;
-}
+
 h1 {
   padding-top: 20px;
   font-family: 'Sacramento', cursive;
