@@ -11,7 +11,9 @@ body {
   background-color: #EFFFFD;
   color:#40514E;
 }
-
+.qualify a{
+  text-decoration: none;
+}
 h1 {
   padding-top: 20px;
   font-family: 'Sacramento', cursive;
