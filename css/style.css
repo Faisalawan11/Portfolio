@@ -11,7 +11,7 @@ body {
   background-color: #EFFFFD;
   color:#40514E;
 }
-a .qualify{
+a:hover{
   text-decoration: none;
 }
 h1 {
